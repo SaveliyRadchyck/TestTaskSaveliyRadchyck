@@ -1,0 +1,6 @@
+framework module Pods_TestTaskSaveliyRadchyck {
+  umbrella header "Pods-TestTaskSaveliyRadchyck-umbrella.h"
+
+  export *
+  module * { export * }
+}

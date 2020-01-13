@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "22055912-7DF5-46E5-89E9-1B9BB1C8181F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B31E99-01DB-460C-9A47-E9BEDC0E4277"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Modules/CommentsList/Controller/CommentsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "035BD654-6D30-413F-B1E0-CF4752FF4D11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Modules/CommentsList/Controller/CommentsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "config(comments:idRange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A29223F-CA83-4919-8263-07B03CD860EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2276F6B-568E-46E6-AF16-8AE3D7CC073C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B2276F6B-568E-46E6-AF16-8AE3D7CC073C - dc91b0bc047ae2fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTaskSaveliyRadchyck.AppDelegate.__allocating_init() -&gt; TestTaskSaveliyRadchyck.AppDelegate"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B2276F6B-568E-46E6-AF16-8AE3D7CC073C - c34275a4a0c5f535"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTaskSaveliyRadchyck.AppDelegate.init() -&gt; TestTaskSaveliyRadchyck.AppDelegate"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B2276F6B-568E-46E6-AF16-8AE3D7CC073C - 55d23316764b75cb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTaskSaveliyRadchyck.AppDelegate.__deallocating_deinit"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B2276F6B-568E-46E6-AF16-8AE3D7CC073C - 3bd00807443d7879"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E93E41E-A02F-4A77-A2C4-E135B6B1CEE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B3AE3B8-20B2-4C32-8E4C-7ED5E084FC14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Modules/Bounds/Controller/BoundsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E483989-6B1C-4821-87E3-134487E752C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Modules/Bounds/Controller/BoundsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loadComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A389480-DDFC-49FA-8FCB-89F9E878A2D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Services/Network/CommentsNetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "commentsGet(idRange:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD9C34C-4267-41A6-95B8-BE877B45CD30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Services/Network/CommentsNetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "commentsGet(idRange:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8C33BDC-A59C-4824-AD64-039A7F1D3376"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Services/Network/CommentsNetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "commentsGet(idRange:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8C33BDC-A59C-4824-AD64-039A7F1D3376 - 231a9f63ad3c08b9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTaskSaveliyRadchyck.CommentsNetworkService.commentsGet(idRange: Swift.ClosedRange&lt;Swift.Int&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;TestTaskSaveliyRadchyck.Comment&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.Error&gt;&gt;) -&gt; ()) -&gt; Alamofire.DataRequest"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/Services/Network/CommentsNetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "267">
+               </Location>
+               <Location
+                  uuid = "A8C33BDC-A59C-4824-AD64-039A7F1D3376 - 987f7cb78af468e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;TestTaskSaveliyRadchyck.Comment&gt;&gt;) -&gt; () in TestTaskSaveliyRadchyck.CommentsNetworkService.commentsGet(idRange: Swift.ClosedRange&lt;Swift.Int&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;TestTaskSaveliyRadchyck.Comment&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.Error&gt;&gt;) -&gt; ()) -&gt; Alamofire.DataRequest"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/Services/Network/CommentsNetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "206">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3FDE149-B92E-4EB4-A23A-F684A5383E8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTaskSaveliyRadchyck/Modules/BaseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3FDE149-B92E-4EB4-A23A-F684A5383E8C - 157b2de015352640"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTaskSaveliyRadchyck.BaseView.__allocating_init(frame: __C.CGRect) -&gt; TestTaskSaveliyRadchyck.BaseView"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/Modules/BaseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E3FDE149-B92E-4EB4-A23A-F684A5383E8C - 36af51d6d3c55ca7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTaskSaveliyRadchyck.BaseView.init(frame: __C.CGRect) -&gt; TestTaskSaveliyRadchyck.BaseView"
+                  moduleName = "TestTaskSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/TestTaskSaveliyRadchyck/TestTaskSaveliyRadchyck/Modules/BaseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

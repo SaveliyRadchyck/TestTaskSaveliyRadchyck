@@ -1,0 +1,119 @@
+/* 
+  Localizable.strings
+  TestTaskSaveliyRadchyck
+
+  Created by Saveliy Radchyck on 1/11/20.
+  Copyright © 2020 Saveliy Radchyck. All rights reserved.
+*/
+
+
+/*
+ * 1. Group lines to sections
+ *
+ * 2. Section name format:
+ *      // ======
+ *      // 'MARK: - Section Name
+ *      // ======
+ *
+ * 3. Separate subsections using additional newline and MARK
+ *
+ * 4. Lines format:
+ *      /*  *'/ - comment about string
+ *      "Key" = "Value";
+ *
+ *      Optional: 'Key' should contain name of screen, type of component, identifier
+ *
+ * 5. Parameters in strings should be named using format:
+ *      $(ParameterNameKey) - it will be automatically replaced with value from passed dict while localization
+ *
+ * 6. Localize plural numbers in Localizable.stringsdict
+ *      How to use plural localization - https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html
+ *      Plural rules - http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html
+ */
+
+
+// ======
+// MARK: - Common
+// ======
+
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Error" = "Error";
+
+
+// ======
+// MARK: - Enums
+// ======
+
+
+
+// ======
+// MARK: - Errors
+// ======
+
+/* Error, when something wrong with request parameters */
+"Error.WrongRequest" = "Invalid request data";
+
+/* Universal error, when something happens with request */
+"Error.FailedGetServerResponse" = "Couldn't retrieve server response.";
+
+/* Error, when couldn't convert retrieved data into required format */
+"Error.ParsingError" = "Could not parse data.";
+
+/* Error, when field has wrong value */
+"Error.Field.WrongValue" = "Invalid value";
+
+/* Error, when entered non-positive value */
+"Error.Range.NonPositive" = "Value should be 1 or bigger";
+
+/* Error, when lower value is bigger, than upper */
+"Error.Range.LowerBiggerThanUpper" = "Upper value should be bigger or equal lower";
+
+
+// ======
+// MARK: - Alerts
+// ======
+
+
+
+// ======
+// MARK: - Screens
+// ======
+
+/* Text for navigation item in Bounds View Controller*/
+
+"Bounds.NavigationItem.Title" = "Select bounds";
+
+/* Text for navigation item in Comments View Controller*/
+
+"CommentsList.NavigationItem.Title" = "Comments list";
+
+
+// MARK: - Select Bounds screen
+
+/* Text for lower comment id bound */
+"Bounds.Lower.Description" = "Lower id bound";
+
+/* Text for upper comment id bound */
+"Bounds.Upper.Description" = "Upper id bound";
+
+/* Send request button title */
+"Bounds.Request.Send" = "Request";
+
+/* Cancel request button title */
+"Bounds.Request.Cancel" = "Cancel";
+
+
+// MARK: - Comments List screen
+
+/* Comment id description label */
+"CommentsList.Comment.Id" = "ID:";
+
+/* Post id description label */
+"CommentsList.Comment.PostId" = "Post ID:";
+
+/* Comment name description label */
+"CommentsList.Comment.Name" = "Name:";
+
+/* Sender email description label */
+"CommentsList.Comment.Email" = "Email:";
